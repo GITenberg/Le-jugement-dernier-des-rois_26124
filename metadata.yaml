@@ -1,0 +1,34 @@
+_repo: Le-jugement-dernier-des-rois_26124
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maréchal, Sylvain
+    aliases:
+    - Marechal, Sylvain
+    - Maréchal, Pierre Sylvain
+    birthdate: 1750
+    deathdate: 1803
+    gutenberg_agent_id: '25676'
+    url: http://www.gutenberg.org/2009/agents/25676
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Sylvain_Mar%C3%A9chal
+    - http://fr.wikipedia.org/wiki/Sylvain_Mar%C3%A9chal
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2008-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26124'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Drama'
+- !lcsh 'French drama -- 18th century'
+- !lcc 'PQ'
+title: Le jugement dernier des rois
+url: http://www.gutenberg.org/ebooks/26124
