@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Sylvain_Mar%C3%A9chal
     - http://fr.wikipedia.org/wiki/Sylvain_Mar%C3%A9chal
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26124#Le-jugement-dernier-des-rois
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2008-07-25'
 gutenberg_type: Text
